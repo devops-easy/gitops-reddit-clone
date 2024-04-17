@@ -1,1 +1,1 @@
-# gitops-reddit-clone
+# gitops-reddit-clone app
